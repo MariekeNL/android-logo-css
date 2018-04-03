@@ -1,0 +1,1 @@
+This is MariekeNL's Android logo. It is built using HTML and CSS, following the walkthrough on The Code Player: http://thecodeplayer.com/walkthrough/css3-android-logo.
